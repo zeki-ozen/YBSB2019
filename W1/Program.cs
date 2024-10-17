@@ -1,4 +1,8 @@
-﻿namespace w1_str2
+﻿/********** STRUCTURED PROGRAMMING II **********/
+/********** Dr. Zeki Ozen *********************/
+/********** WEEK I - Reference Data Types *******************/
+
+namespace w1_str2
 {
     internal class Program
     {
