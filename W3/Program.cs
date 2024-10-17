@@ -1,4 +1,4 @@
-﻿/********** STRUCTURED PROGRAMMING **********/
+﻿/********** STRUCTURED PROGRAMMING II **********/
 /********** Dr. Zeki Ozen *******************/
 /********** WEEK 3 - ARRAYS *****************/
 
