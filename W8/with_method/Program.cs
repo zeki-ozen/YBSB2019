@@ -1,4 +1,10 @@
-﻿internal class Program
+﻿/********** STRUCTURED PROGRAMMING **********/
+/********** Dr. Zeki Ozen *******************/
+/********** WEEK 8 - Intoduction to Method **/
+
+using System;
+
+internal class Program
 {
 
     // Define a method that calculates the price of apples and pears with VAT
